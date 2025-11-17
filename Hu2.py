@@ -63,3 +63,8 @@ while check:
             break   
     except:
         print("Ingresa un valor valido")
+
+
+#En este semana aprendimos definir y utilizar funciones con parámetros, cómo devolver 
+#valores, cómo usar funciones anónimas, uso de listas, tuplas y diccionarios en Python,
+#con ejemplos de cómo definir, modificar y acceder a los elementos de estas colecciones. 
